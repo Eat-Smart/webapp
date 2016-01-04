@@ -1,0 +1,26 @@
+{
+  "name": "eat-smart",
+  "version": "0.1.0",
+  "description": "A menu planning app that optimizes a meal plan for a week given a list of ingredients. It will also produce shopping lists to improve potential options. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eat-Smart/webapp.git"
+  },
+  "keywords": [
+    "menu",
+    "planning",
+    "preparation",
+    "food",
+    "optimization"
+  ],
+  "author": "Peter Madsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eat-Smart/webapp/issues"
+  },
+  "homepage": "https://github.com/Eat-Smart/webapp#readme"
+}
